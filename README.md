@@ -1,6 +1,5 @@
-# Tasks CRUD MVP (MongoDB + Express + React)
+# Tasks CRUD (MongoDB + Express + React)
 
-Simple web app that demonstrates CRUD using a **NoSQL database (MongoDB)**.
 
 ## Features
 
@@ -12,7 +11,7 @@ Simple web app that demonstrates CRUD using a **NoSQL database (MongoDB)**.
 
 ## Prerequisites
 
-- Node.js (you have it)
+- Node.js
 - MongoDB running locally (or a MongoDB Atlas connection string)
 
 ### Quick MongoDB via Docker (optional)
